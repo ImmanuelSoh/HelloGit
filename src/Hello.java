@@ -5,7 +5,7 @@ public class Hello {
     
     System.out.println("Computer Science");
     
-    System.out.println("Rylan Becker");
+    System.out.println("Rylan Becker!");
     
     System.out.println("Computer Science")
   }
